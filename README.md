@@ -1,8 +1,4 @@
 # Pay
-[![Latest stable test run](https://github.com/Laragear/Permissions/workflows/Tests/badge.svg)](https://github.com/Laragear/Permissions/actions)
-
-# Pay
-[![Latest stable test run](https://github.com/Laragear/Permissions/workflows/Tests/badge.svg)](https://github.com/Laragear/Permissions/actions)
 
 Payment gateway implementation for any Laravel project.
 
