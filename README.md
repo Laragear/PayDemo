@@ -38,7 +38,8 @@ public function confirm(Request $request, Payment $payment)
 
 ## Requirements
 
-* Laravel 11 or later
+* PHP 8.3 or later
+* Laravel 12 or later
 
 ## Installation
 
@@ -895,6 +896,6 @@ public function pay(Request $request)
 
 # License
 
-This specific package version is licensed under the terms of the [MIT License](LICENSE.md), at time of publishing.
+This specific package version is licensed under the terms of the [MIT License](LICENSE.md), at the time of publishing.
 
-[Laravel](https://laravel.com) is a Trademark of [Taylor Otwell](https://github.com/TaylorOtwell/). Copyright © 2011-2025 Laravel LLC.
+[Laravel](https://laravel.com) is a Trademark of [Taylor Otwell](https://github.com/TaylorOtwell/). Copyright © 2011–2026 Laravel LLC.
